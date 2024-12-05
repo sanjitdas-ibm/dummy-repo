@@ -31,6 +31,7 @@ function App() {
     <div className='main'>
       <h1>Count: {count}</h1>
       <h1>Please be patient:</h1>
+      <h1>please</h1>
       <ButtonOne onClick={incrementCount} />
       <ButtonSce onClick={incrementCount} />
     </div>
